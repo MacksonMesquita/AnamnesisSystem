@@ -1,0 +1,1 @@
+// contém scrpts importantes para o funcionamento
